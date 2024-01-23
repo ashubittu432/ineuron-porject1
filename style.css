@@ -1,0 +1,52 @@
+
+#nav1{
+    display: flex;
+    align-items:flex-start;
+  margin-left: 150px;
+    gap: 40px;
+}
+.butt{
+    color: white;
+    background-color: green;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+}
+.butt:hover{
+    color: blue;
+}
+#section1{
+    margin-top: 180px;
+    margin-left: 180px;
+    display: flex;
+    align-items:flex-start;
+    gap: 370px;
+}
+.aalu{
+   padding-bottom : 20px;
+   font-size: 15px; 
+}
+
+.sec{
+    font-size: 40px;
+    padding-top : 40px;
+} 
+.img3{
+    margin-left:850px ;
+   
+}
+.img1{
+    /* margin-right: 150px; */
+    width: 220px;
+    height: 250px;
+    padding-bottom: 20px;
+}
+.img2{
+    /* padding-right: 250px; */
+    width: 220px;
+    height: 300px;
+    margin-left: -330px;
+}
+.img4{
+    padding-right:100px;
+}
